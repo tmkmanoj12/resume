@@ -1,0 +1,29 @@
+languageCode = "en-US"
+layoutdir = "layouts"
+# baseurl = "/"
+baseurl = "https://tmkmanoj12.github.io/resume/docs"
+publishDir  = "../docs"
+googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Manoj Kumar"
+  title = "Manoj Kumar's Resume"
+  description = "Manoj Kumar's Awesome Resume"
+  avatar = "profile.png"
+  email = "christurner@me.com"
+  email_full = "mailto:youremail@me.com"
+  website = "git.io/sustain"
+  website_full = "https://demo.nurlan.co/hugo-sustain/"
+  github = "trending"
+  twitter = "twitter"
+  tel = "+44 0000 000000"
+  tel_full = "+440000000000"
+  google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
+  address = "44 Perth Street"
+  postcode = "EH3 5BL"
+  city = "Edinburgh"
+  country = "United Kingdom"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
