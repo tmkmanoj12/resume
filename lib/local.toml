@@ -1,10 +1,10 @@
 languageCode = "en-US"
 layoutdir = "layouts"
-# baseurl = "/"
-baseurl = "https://tmkmanoj12.github.io/resume/"
+baseurl = "/"
+# baseurl = "https://tmkmanoj12.github.io/resume/"
 publishDir  = "../docs"
 googleAnalytics = ""
-# theme = "hugo-vitae"
+#theme = "hugo-vitae"
 
 [params]
   author = "Manoj Kumar"
