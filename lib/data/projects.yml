@@ -1,0 +1,25 @@
+name: Projects
+source:
+    - heading: Skill Development Management System (SDMS) under Ministry of Skill Development And  Entrepreneurship
+    - descriptionArray:
+          - description: Impacting the lives of millions of people through this platform where they can participate , undergo training , get certified (along with having them in Digilocker ) and scale up for the development of India
+    - heading: HR Application Suite
+    - descriptionArray:
+          - description: A complete package for the recruiment team in corporate sector making their tasks easier by stream lining the process
+          - description: This includes
+          - subDescriptionArray:
+                - subDescription: Recruitment
+                - subDescription: "Onboarding"
+                - subDescription: "Performance Management System"
+                - subDescription: "Timesheet"
+                - subDescription: "Leave"
+    - heading: Online Test Management
+    - descriptionArray:
+          - description: A Tool which will allow students to appear for campus placements
+    - heading: Visitor Management System
+    - descriptionArray:
+          - description: This allows the entry and management of visitors into an organisation safe and secure
+    - heading: Vehicle Collison Detection System
+    - descriptionArray:
+          - description: College Project
+          - description: An Embedded Application which will potentially save lives of people, who met with an accident in a remote area,  by informing helpline services and family members using GPS ans GSM techniques

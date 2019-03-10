@@ -1,15 +1,21 @@
 name: Education
 source:
-  - title: MSc in Advanced Computing
-    univ: University of Glasgow
-    place: Glasgow, UK
-    date: 2011 to 2012
-    type: thesis
-    description: Nemore verear an eos, duo accusam placerat urbanitas at, vix libris putent voluptaria ei.
+  - title: Undergraduate - B.Tech In ECE
+    univ: NIT Bhopal
+    place: Bhopal , India
+    date: 2012 to 2016
+    type: MHRD
+    description: GPA - 7.02
 
-  - title: Major in Computer Science
-    univ: University of College London
-    place: London, UK
-    date: 2007 to 2011
-    type: dissertation
-    description: Te dicit scripta nec, nec illud decore partem et.
+  - title: 12th
+    univ: Narayana Jr.College
+    place: Vijayawada, India
+    date: 2010 to 2012
+    type: Board of Intermediate Education 
+    description: percentage - 96
+  - title: 10th
+    univ: Bhashyam Public school
+    place: Vijayawada, India
+    date: 2009 to 2010
+    type: Board of Secondary Education
+    description: percentage - 93

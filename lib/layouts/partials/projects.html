@@ -1,0 +1,31 @@
+<section class="thirteen columns">
+    <h1>{{ .Site.Data.projects.name }}</h1>
+    <ul>
+        {{ range $el := .Site.Data.projects.source }}
+        <li>
+            <strong>{{$el.heading}}</strong>
+            {{if $el.descriptionArray}}
+            <ul>
+                {{range $er:= $el.descriptionArray}}
+                <li>
+                    {{$er.description}}
+
+                    {{if $er.subDescriptionArray}}
+                    <ul>
+                        {{range $sub_er := $er.subDescriptionArray}}
+                        <li>{{$sub_er.subDescription}}</li>
+                        {{end}}
+                    </ul>
+                    {{end}}
+                </li>
+                {{end}}
+
+            </ul>
+            {{end}}
+        </li>
+        <ul>
+        </ul>
+        {{ end }}
+    </ul>
+
+</section>

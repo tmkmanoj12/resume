@@ -1,11 +1,8 @@
-name: Programming Skills
+name: Technical Skills
 title: Software engineering & web development
 source:
-  - name: [C/C++, Objective-C]
+  - name: [Node.Js, Angular, MongoDB, Javascript,Git]
     stars: 5
 
-  - name: [Java, Python, PHP, Git]
+  - name: [Go Lang , Python,HTML/CSS3]
     stars: 4
-
-  - name: [HTML/CSS3, Javascript]
-    stars: 3
