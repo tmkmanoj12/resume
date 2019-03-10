@@ -2,6 +2,9 @@
 
 <body>
   <div class="container">
+    <div>
+      <a href = "{{ .Site.BaseURL }}pdf/{{ .Site.Params.resumePdf }}"> <button class="btn btn-primary" style="background-color:#42b244;color:white">Download as PDF</button></a>
+    </div>
     {{ partial "header" . }}
     <div class="thirteen columns clearfix">
       {{ partial "skills" . }}
